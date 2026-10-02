@@ -1,0 +1,101 @@
+{
+  "file": "qwen2.5-coder-1.5b-instruct-q4_k_m.gguf",
+  "source": "https://huggingface.co/Qwen/Qwen2.5-Coder-1.5B-Instruct-GGUF",
+  "license": "Apache-2.0",
+  "size": 1117320768,
+  "sha256": "cc324af070c2ecbfd324a30884d2f951a7ff756aba85cb811a6ec436933bb046",
+  "parts": [
+    {
+      "name": "parts/qwen2.5-coder-1.5b-instruct-q4_k_m.gguf.part-00",
+      "size": 50331648
+    },
+    {
+      "name": "parts/qwen2.5-coder-1.5b-instruct-q4_k_m.gguf.part-01",
+      "size": 50331648
+    },
+    {
+      "name": "parts/qwen2.5-coder-1.5b-instruct-q4_k_m.gguf.part-02",
+      "size": 50331648
+    },
+    {
+      "name": "parts/qwen2.5-coder-1.5b-instruct-q4_k_m.gguf.part-03",
+      "size": 50331648
+    },
+    {
+      "name": "parts/qwen2.5-coder-1.5b-instruct-q4_k_m.gguf.part-04",
+      "size": 50331648
+    },
+    {
+      "name": "parts/qwen2.5-coder-1.5b-instruct-q4_k_m.gguf.part-05",
+      "size": 50331648
+    },
+    {
+      "name": "parts/qwen2.5-coder-1.5b-instruct-q4_k_m.gguf.part-06",
+      "size": 50331648
+    },
+    {
+      "name": "parts/qwen2.5-coder-1.5b-instruct-q4_k_m.gguf.part-07",
+      "size": 50331648
+    },
+    {
+      "name": "parts/qwen2.5-coder-1.5b-instruct-q4_k_m.gguf.part-08",
+      "size": 50331648
+    },
+    {
+      "name": "parts/qwen2.5-coder-1.5b-instruct-q4_k_m.gguf.part-09",
+      "size": 50331648
+    },
+    {
+      "name": "parts/qwen2.5-coder-1.5b-instruct-q4_k_m.gguf.part-10",
+      "size": 50331648
+    },
+    {
+      "name": "parts/qwen2.5-coder-1.5b-instruct-q4_k_m.gguf.part-11",
+      "size": 50331648
+    },
+    {
+      "name": "parts/qwen2.5-coder-1.5b-instruct-q4_k_m.gguf.part-12",
+      "size": 50331648
+    },
+    {
+      "name": "parts/qwen2.5-coder-1.5b-instruct-q4_k_m.gguf.part-13",
+      "size": 50331648
+    },
+    {
+      "name": "parts/qwen2.5-coder-1.5b-instruct-q4_k_m.gguf.part-14",
+      "size": 50331648
+    },
+    {
+      "name": "parts/qwen2.5-coder-1.5b-instruct-q4_k_m.gguf.part-15",
+      "size": 50331648
+    },
+    {
+      "name": "parts/qwen2.5-coder-1.5b-instruct-q4_k_m.gguf.part-16",
+      "size": 50331648
+    },
+    {
+      "name": "parts/qwen2.5-coder-1.5b-instruct-q4_k_m.gguf.part-17",
+      "size": 50331648
+    },
+    {
+      "name": "parts/qwen2.5-coder-1.5b-instruct-q4_k_m.gguf.part-18",
+      "size": 50331648
+    },
+    {
+      "name": "parts/qwen2.5-coder-1.5b-instruct-q4_k_m.gguf.part-19",
+      "size": 50331648
+    },
+    {
+      "name": "parts/qwen2.5-coder-1.5b-instruct-q4_k_m.gguf.part-20",
+      "size": 50331648
+    },
+    {
+      "name": "parts/qwen2.5-coder-1.5b-instruct-q4_k_m.gguf.part-21",
+      "size": 50331648
+    },
+    {
+      "name": "parts/qwen2.5-coder-1.5b-instruct-q4_k_m.gguf.part-22",
+      "size": 10024512
+    }
+  ]
+}
